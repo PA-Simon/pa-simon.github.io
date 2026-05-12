@@ -1,5 +1,3 @@
-#I am currently seeking postdoctoral opportunities in machine learning, AI and statistical modeling.
-
 ---
 layout: archive
 title: "About"
@@ -7,16 +5,20 @@ permalink: /
 author_profile: true
 ---
 
-I am a researcher with a PhD in Actuarial Science, primarily interested in machine learning, statistical learning and uncertainty modeling.
+I am a researcher and actuarial data scientist working at the intersection of machine learning, statistical modeling and insurance analytics.
 
-Although my doctoral work focused on actuarial applications, my research motivation has consistently been driven by modern AI and data-driven modeling. My work lies at the intersection of probabilistic methods, prediction under uncertainty and machine learning.
+My work focuses on the development and application of data-driven methods for prediction, uncertainty quantification and decision-making. 
 
+I currently work in the insurance industry, where I develop and apply quantitative and machine learning approaches to real-world analytical problems. This experience has reinforced my interest in building models that are not only performant, but also interpretable, reliable and practically useful in complex environments.
 
-## Research Interests
+My research interests include:
 
 - Machine Learning
-- Deep Learning
-- Probabilistic Modeling
-- AI for Risk and Finance
 - Statistical Learning
+- Probabilistic Modeling
 - Uncertainty Quantification
+- Predictive Analytics
+
+## Contact
+
+Feel free to reach out regarding research collaborations, postdoctoral opportunities or interdisciplinary projects involving AI, statistics and risk modeling.
