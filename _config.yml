@@ -25,26 +25,26 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Pierre-Alexandre Simon"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #location         : "Earth"
+  #employer         : "Red Brick University"
+  #uri              : # URL
+  #email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=nO0OnEEAAAAJ&hl=fr"
-  inspire-hep      : # URL
-  impactstory      : # URL
+  #inspire-hep      : # URL
+  #impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-0627-003X"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #semantic         : # URL
+  #ssrn             : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
