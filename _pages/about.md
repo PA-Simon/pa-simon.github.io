@@ -9,7 +9,7 @@ I am a researcher with a PhD in Actuarial Science, primarily interested in machi
 
 Although my doctoral work focused on actuarial applications, my research motivation has consistently been driven by modern AI and data-driven modeling. My work lies at the intersection of probabilistic methods, prediction under uncertainty and machine learning.
 
-I am currently seeking postdoctoral opportunities in machine learning, AI and statistical modeling.
+#I am currently seeking postdoctoral opportunities in machine learning, AI and statistical modeling.
 
 ## Research Interests
 
