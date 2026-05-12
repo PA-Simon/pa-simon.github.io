@@ -21,4 +21,4 @@ My research interests include:
 
 ## Contact
 
-Feel free to reach out regarding research collaborations, postdoctoral opportunities or interdisciplinary projects involving AI, statistics and risk modeling.
+Feel free to reach out regarding research collaborations or interdisciplinary projects involving AI, statistics and risk modeling.
